@@ -142,7 +142,7 @@ $border-light-opacity: 0.08 !default;
 $border-dark-opacity: 0.24 !default;
 $border-active-opacity: 0.58 !default;
 
-$gray-50:  #f6f8fb !default;
+$gray-50: #f6f8fb !default;
 $gray-100: #eef3f6 !default;
 $gray-200: #dce1e7 !default;
 $gray-300: #b8c4d4 !default;
@@ -197,9 +197,9 @@ $color-green: #2fb344;
 $color-teal: #0ca678;
 $color-cyan: #17a2b8;
 
-$text-secondary: $gray-500 !default;
-$text-secondary-light: $gray-400 !default;
-$text-secondary-dark: $gray-600 !default;
+$text-secondary: $gray-600 !default;
+$text-secondary-light: $gray-600 !default;
+$text-secondary-dark: $gray-400 !default;
 
 $border-color: $gray-200 !default;
 $border-color-translucent: rgba(4, 32, 69, 0.1);
@@ -863,7 +863,7 @@ $table-sort-desc-bg-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org
 // Toasts
 $toast-border-color: var(--#{$prefix}border-color) !default;
 $toast-header-color: var(--#{$prefix}gray-500) !default;
-$toast-background-color: var(--#{$prefix}bg-surface) !default; 
+$toast-background-color: var(--#{$prefix}bg-surface) !default;
 
 // Tracking
 $tracking-height: 1.5rem !default;
